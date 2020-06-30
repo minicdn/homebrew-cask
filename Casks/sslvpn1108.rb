@@ -1,5 +1,5 @@
-cask 'sslvpn' do
-  name 'SSLVPN'
+cask 'sslvpn-old' do
+  name 'SSLVPN-OLD'
   version '1.01108'
   homepage 'http://cdn-speed.qiniudn.com'
   url "http://cdn-speed.qiniudn.com/SSLVPN/Mac/RJSSLVPN-#{version}.dmg"
